@@ -32,12 +32,10 @@ public class calories {
 				+"\n1) Moderate Activity\n"+"\n2) Low Level Activity\n\n"+"Please select your answer:");
 					
 				//Prompt the user for his/ her weight:
-				/*do
-				{
 				userWeight = JOptionPane.showInputDialog("Please enter your weight (lb):          ");				
 				
 				//validate weight
-				if (weight <=0);
+				/*if (weight <=0);
 				JOptionPane.showMessageDialog(null, "INVALID INPUT!");
 					
 				}
